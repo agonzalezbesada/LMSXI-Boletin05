@@ -8,6 +8,6 @@
 ]>
 
 <cuadros>
-    <cuadro titulo="Adán y Eva" autor="Alberto Durero" comentario=/>
-    <cuadro titulo="Adán y Eva" autor="Lucas Cranach, el viejo" comentario=/>
+    <cuadro titulo="Adán y Eva" autor="Alberto Durero" comentario= "Realizado en 1507" />
+    <cuadro titulo="Crucifixión" autor="Lucas Cranach, el viejo"/>
 </cuadros>
